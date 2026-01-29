@@ -1,0 +1,12 @@
+{
+  "name": "wild-horizons",  
+  "version": "1.0.0",
+  "description": "a data set of planet's most intreseting places",
+  "license": "ISC",
+  "author": "Shantesh",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
